@@ -1,0 +1,24 @@
+div.one{
+  background:#F8F8F8;
+  float-
+}
+textarea.one
+{
+  background:#F8F8F8;
+  width:100%;
+  height:300px;
+  border: none;
+  resize: none;
+
+}
+textarea.two
+{
+  width:100%;
+  height:300px;
+  border: none;
+  resize: none;
+  text-align:left;
+}
+textarea:focus, input:focus{
+outline: none;
+}
